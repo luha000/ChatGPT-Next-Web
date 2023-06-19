@@ -32,7 +32,7 @@ export enum StoreKey {
   Config = "app-config",
   Mask = "mask-store",
   Prompt = "prompt-store",
-  Update = "chat-update",
+  //   Update = "chat-update",
 }
 
 export const MAX_SIDEBAR_WIDTH = 500;
